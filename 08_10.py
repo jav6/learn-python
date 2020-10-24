@@ -9,4 +9,4 @@ for number in range(2, input_number):
 if count == 0:
     print("addad avval ast")
 
-#brak - continue - optimaize
+#break - continue -> optimaize
