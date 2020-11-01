@@ -28,4 +28,5 @@ import matplotlib.pyplot as plt
 
 #%matplotlib inline #for show in notebook
 # people.sort()
-plt.bar(range(0, 50), sorted(people, reverse=True))
+#print(plt.bar(range(0, 50), sorted(people, reverse=True)))
+print(plt.bar(range(0, 50), people))
