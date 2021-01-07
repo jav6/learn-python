@@ -24,3 +24,6 @@ for a in tel.items():
 
 #tuple in python
 mytuple = (1, "a", "b", "c")
+
+
+#set in python -> array
