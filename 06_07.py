@@ -1,3 +1,10 @@
+#how to convert a variable to another type of variable (Casting in Python):
+aaa = 123
+print(type(aaa))
+aaa2 = str(aaa)
+print(aaa2)
+
+
 # flow controll (if - loop - ...)
 
 #for loop
