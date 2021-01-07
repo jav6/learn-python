@@ -30,3 +30,5 @@ print(aa[1:])
 
 # for get lenght
 len(aa)
+
+#Array in python is list
