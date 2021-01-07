@@ -1,5 +1,5 @@
-#Start with Python ver:3.9.0
 # ->comment in python
+""" comment in python """
 
 #variable in python
 number  = 1
