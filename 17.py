@@ -21,3 +21,6 @@ print(tel['saeed'])
 
 for a in tel.items():
     print(a)
+
+#tuple in python
+mytuple = (1, "a", "b", "c")
